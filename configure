@@ -1,3 +1,5 @@
+--enable-shared
+--enable-static
 --enable-cond-command
 --enable-history
 --enable-job-control
